@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+michael otieno cv.pdf
+paypal.py
+email_scraper.py
+checkout1.py
+serverk.py

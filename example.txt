@@ -1,0 +1,87 @@
+MICHAEL OTIENO OMONDI 
++254 798 785 157 
+omoshmichael2000@gmail.com 
+Portfolio: https://mike2634.github.io/portfolio/ 
+GitHub: https://github.com/mike2634 
+PROFESSIONAL SUMMARY 
+Computer Science graduate with hands-on experience in PHP development, MySQL databases, 
+WordPress development, and API integration. Experienced in building database-driven web 
+applications, developing WordPress plugins, integrating third-party APIs, and troubleshooting 
+software issues. Strong foundation in backend development, database design, and software 
+problem-solving, with a passion for building reliable and scalable web applications. 
+EDUCATION 
+University of Embu (2021 – 2025) 
+Bachelor of Science in Computer Science 
+Second Class Upper Division 
+TECHNICAL SKILLS 
+Programming & Backend 
+• PHP (Procedural & Object-Oriented Programming) 
+• JavaScript 
+• Python 
+• REST API Integration 
+• OAuth 2.0 Authentication 
+Database Technologies 
+• MySQL 
+• SQL Queries and Joins 
+• CRUD Operations 
+• Relational Database Design 
+• Database Troubleshooting and Optimization 
+Frontend Development 
+• HTML5 
+• CSS3 
+• JavaScript 
+Tools & Platforms 
+• Git & GitHub 
+• Visual Studio Code 
+• WordPress 
+• Figma-to-Web Implementation 
+PROJECTS 
+Michael Cloud Image Auto Importer Plugin 
+https://wordpress.org/plugins/michael-cloud-image-auto-importer/ 
+• Developed and published a WordPress plugin using PHP and WordPress APIs 
+• Integrated Google Drive API using OAuth 2.0 authentication 
+• Implemented automated image import functionality from cloud storage 
+• Built duplicate detection mechanisms to prevent redundant uploads 
+• Added activity logging and monitoring features for import operations 
+• Managed backend processing and database interactions 
+• Published the plugin on the official WordPress Plugin Directory 
+PHP & MySQL CRUD Applications 
+• Developed database-driven web applications using PHP and MySQL 
+• Designed relational database structures and table relationships 
+• Implemented Create, Read, Update, and Delete (CRUD) functionality 
+• Wrote SQL queries involving joins, filtering, grouping, and data retrieval 
+• Applied database troubleshooting and query optimization techniques 
+PROFESSIONAL EXPERIENCE 
+WordPress Developer 
+Oracom Web Solutions – Nairobi 
+Sep 2025 – April 2026 
+• Developed and maintained WordPress websites and custom plugins 
+• Integrated third-party APIs and customized website functionality 
+• Managed MySQL database interactions and troubleshooting 
+• Converted Figma designs into responsive web pages 
+• Optimized website performance and resolved technical issues 
+• Provided technical support and maintenance services 
+ICT Attachment 
+Tenri Children’s Hospital – Embu 
+Apr 2025 – Sep 2025 
+• Assisted in software installation, configuration, and maintenance 
+• Supported network troubleshooting and ICT operations 
+• Performed system backups and routine technical support 
+• Resolved user technical issues and assisted staff with ICT-related needs 
+KEY STRENGTHS 
+• Problem Solving and Analytical Thinking 
+• Software Troubleshooting and Debugging 
+• Backend Development 
+• Database Design and Management 
+• Quick Learning and Adaptability 
+• Teamwork and Communication 
+• Technical Documentation 
+• Self-Motivated and Results-Oriented 
+REFERENCES 
+Alphonce Juma 
+CEO, Oracom Group 
+0712 534 091 
+alphyjuma@hotmail.com 
+William Mugo 
+Head of ICT, Tenri Children’s Hospital 
+0725 846 304 
