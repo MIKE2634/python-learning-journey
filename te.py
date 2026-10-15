@@ -1,10 +1,20 @@
-a = [[1, 3], [2, 6], [8, 10], [9, 12], [15, 18]]
-a.sort(key=lambda x:x[0])
-merged = [a[0]]
+intervals = [
+    [81, 105], [119, 137], [47, 61], [376, 401], [433, 442], [287, 300], 
+    [421, 429], [352, 359], [316, 337], [354, 368], [427, 439], [110, 136], 
+    [114, 120], [376, 383], [74, 90], [290, 305], [200, 212], [], 
+    [49, 62], [344, 362], [3, 4],  [140, 149], [269, 298], 
+    [12, 37], [436, 461], [392, 408], [308, 335], [16, 18], [321, 330], 
+    [47, 55], [142, 169], [188, 201], [240, 235], [6, 7], [61, 78]
+]
+intervals=[x for x in intervals if x]
+intervals=[[max(x),min(x)] for x in intervals]
+intervals.sort()
 
-for x in a[1:]:
-    if x[0] <= merged[-1][1]:
-        merged[-1][1] = max(merged[-1][1], x[1])
+merged=[intervals[0]]
+
+for x in intervals[1:]:
+    if x[0]<=merged[-1][1]:
+        merged[-1][1]=max(merged[-1][1],x[1])
     else:
         merged.append(x)
 print(merged)
