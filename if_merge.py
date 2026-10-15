@@ -1,4 +1,6 @@
 
+#using if to sort, simple buble sort
+
 a = list(map(int, input("Enter exactly 6 numbers: ").split()))
 
 if len(a) != 6:
